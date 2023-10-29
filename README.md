@@ -148,7 +148,7 @@ In the later experiments, we used undersampling for two reasons. First, past res
 </div>
 
 <div align="center">
-  <img src="./ReadMEImg/fig7.jpeg">
+  <img src="./ReadMEImg/fig7.png">
 </div>
  
 
