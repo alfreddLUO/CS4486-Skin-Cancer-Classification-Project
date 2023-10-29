@@ -178,6 +178,18 @@ For this dataset, when using undersampling, the improvement of rare class accura
 
 Both teammates put 100% effort into code writing and experiment design as well as report writing. 
 
+## Appendix
+Our attached files include 5 coding files. 
+Three of the files represent differently structured models that were tested in the above experiment. 
+The other two files are respectively used for ensemble prediction and data selection in the undersampling. 
+<div align="center">
+  <img src="./ReadMEImg/fig8.png">
+</div>
+
+<div align="center">
+  <img src="./ReadMEImg/fig9.png">
+</div>
+
  
 
  
